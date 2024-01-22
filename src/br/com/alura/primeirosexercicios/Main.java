@@ -1,4 +1,4 @@
-package br.com.alura.primeiroprojeto;
+package br.com.alura.primeirosexercicios;
 
 public class Main {
     public static void main(String[] args) {

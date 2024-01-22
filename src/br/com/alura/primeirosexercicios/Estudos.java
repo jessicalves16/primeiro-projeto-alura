@@ -1,4 +1,4 @@
-package br.com.alura.primeiroprojeto;
+package br.com.alura.primeirosexercicios;
 
 //Crie uma classe chamada br.com.alura.primeiroprojeto.Estudos para imprimir anotações de estudos no console
 public class Estudos {
