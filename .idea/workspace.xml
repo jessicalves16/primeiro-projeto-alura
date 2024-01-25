@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2301e2b6-6905-4023-9a90-9bec20a135cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeiroprojeto/Estudos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeiroprojeto/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeiroprojeto/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeiroprojeto/Subtracao.java" afterDir="false" />
+    <list default="true" id="2301e2b6-6905-4023-9a90-9bec20a135cc" name="Changes" comment="Exercícios e desafios do primeiro curso da formação em Java da ALura">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/CalculaArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/ComparaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/ParImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/PositivoNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/jogoadivinha/AdivinhaNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/ComparaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/ConverteTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/FormataTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/MediaNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/LoopFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/OutroLoopWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/primeiroprojeto/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +58,69 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.alura.primeirosexercicios" />
       <recent name="br.com.alura.primeiroprojeto" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Soma">
-    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.primeiroprojeto.Soma" />
+  <component name="RunManager" selected="Application.Fatorial">
+    <configuration name="CalculaArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafiopratico3.CalculaArea" />
       <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafiopratico3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subtracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.primeiroprojeto.Subtracao" />
+    <configuration name="ComparaNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafiopratico3.ComparaNumero" />
       <module name="primeiroprojeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.primeiroprojeto.*" />
+          <option name="PATTERN" value="br.com.alura.desafiopratico3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafiopratico3.Fatorial" />
+      <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafiopratico3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafiopratico3.ParImpar" />
+      <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafiopratico3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.desafiopratico3.Tabuada" />
+      <module name="primeiroprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.desafiopratico3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Soma" />
-        <item itemvalue="Application.Subtracao" />
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.ParImpar" />
+        <item itemvalue="Application.Tabuada" />
+        <item itemvalue="Application.CalculaArea" />
+        <item itemvalue="Application.ComparaNumero" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +148,9 @@
       <updated>1705888789520</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercícios e desafios do primeiro curso da formação em Java da ALura" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercícios e desafios do primeiro curso da formação em Java da ALura" />
   </component>
 </project>
