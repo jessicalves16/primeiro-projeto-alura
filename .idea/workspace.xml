@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2301e2b6-6905-4023-9a90-9bec20a135cc" name="Changes" comment="Exercícios e desafios do primeiro curso da formação em Java da ALura">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/CalculaArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/ComparaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/ParImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/PositivoNegativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/desafiopratico3/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/jogoadivinha/AdivinhaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/ComparaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/ConverteTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/FormataTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/primeirosexercicios/MediaNotas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/LoopFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/OutroLoopWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2301e2b6-6905-4023-9a90-9bec20a135cc" name="Changes" comment="Exercícios e desafios do primeiro curso da formação em Java da ALura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1705888789520</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercícios e desafios do primeiro curso da formação em Java da ALura">
+      <created>1706222029030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706222029030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
